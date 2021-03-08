@@ -25,8 +25,7 @@
     "ImagingFrequency": 123.26,
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-PNC1/func/sub-2932582600_ses-PNC1_task-idemo_bold.nii.gz",
-        "ses-PNC1/func/sub-2932582600_ses-PNC1_task-frac2back_bold.nii.gz"
+        "ses-PNC1/func/sub-2932582600_ses-PNC1_task-idemo_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
