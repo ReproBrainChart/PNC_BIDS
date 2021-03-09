@@ -24,9 +24,7 @@
     ],
     "ImagingFrequency": 123.259,
     "InPlanePhaseEncodingDirectionDICOM": "COL",
-    "IntendedFor": [
-        "ses-PNC1/perf/sub-2486269820_ses-PNC1_m0scan.nii.gz"
-    ],
+    "IntendedFor": [],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
     "Manufacturer": "Siemens",
