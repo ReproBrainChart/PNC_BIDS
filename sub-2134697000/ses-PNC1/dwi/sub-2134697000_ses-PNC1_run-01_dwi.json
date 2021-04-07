@@ -32,6 +32,7 @@
     "Manufacturer": "Siemens",
     "ManufacturersModelName": "TrioTim",
     "Modality": "MR",
+    "ParallelReductionFactorInPlane": 3,
     "PartialFourier": 0.75,
     "PatientPosition": "HFS",
     "PercentPhaseFOV": 100,
