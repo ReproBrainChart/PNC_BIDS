@@ -5,8 +5,8 @@
     "ConversionSoftware": "dcm2niix",
     "ConversionSoftwareVersion": "v1.0.20181114  (JP2:OpenJPEG) GCC4.8.4",
     "DeidentificationMethod": "Penn_BSC_profile_v1.0",
-    "EchoNumber": 1,
-    "EchoTime": 0.00269,
+    "EchoNumber": 2,
+    "EchoTime": 0.00527,
     "FlipAngle": 60,
     "ImageOrientationPatientDICOM": [
         1,
@@ -25,11 +25,11 @@
     "ImagingFrequency": 123.259,
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-PNC1/dwi/sub-2544376434_ses-PNC1_run-01_dwi.nii.gz",
-        "ses-PNC1/func/sub-2544376434_ses-PNC1_task-idemo_bold.nii.gz",
-        "ses-PNC1/func/sub-2544376434_ses-PNC1_task-rest_acq-singleband_bold.nii.gz",
-        "ses-PNC1/dwi/sub-2544376434_ses-PNC1_run-02_dwi.nii.gz",
-        "ses-PNC1/func/sub-2544376434_ses-PNC1_task-frac2back_bold.nii.gz"
+        "ses-PNC1/dwi/sub-2544376434_ses-PNC1_acq-VARIANTObliquity_run-01_dwi.nii.gz",
+        "ses-PNC1/dwi/sub-2544376434_ses-PNC1_acq-VARIANTObliquity_run-02_dwi.nii.gz",
+        "ses-PNC1/func/sub-2544376434_ses-PNC1_task-frac2back_acq-VARIANTObliquity_bold.nii.gz",
+        "ses-PNC1/func/sub-2544376434_ses-PNC1_task-idemo_acq-VARIANTObliquity_bold.nii.gz",
+        "ses-PNC1/func/sub-2544376434_ses-PNC1_task-rest_acq-singlebandVARIANTObliquity_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,

@@ -26,7 +26,7 @@
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
         "ses-PNC1/func/sub-1919055552_ses-PNC1_task-idemo_bold.nii.gz",
-        "ses-PNC1/func/sub-1919055552_ses-PNC1_task-frac2back_bold.nii.gz"
+        "ses-PNC1/func/sub-1919055552_ses-PNC1_task-frac2back_acq-VARIANTNumVolumes_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,

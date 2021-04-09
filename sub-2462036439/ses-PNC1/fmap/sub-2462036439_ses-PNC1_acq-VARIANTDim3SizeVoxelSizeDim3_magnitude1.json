@@ -19,14 +19,14 @@
     "ImageType": [
         "ORIGINAL",
         "PRIMARY",
-        "P",
+        "M",
         "ND"
     ],
     "ImagingFrequency": 123.259,
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-PNC1/dwi/sub-2462036439_ses-PNC1_run-01_dwi.nii.gz",
-        "ses-PNC1/dwi/sub-2462036439_ses-PNC1_run-02_dwi.nii.gz"
+        "ses-PNC1/dwi/sub-2462036439_ses-PNC1_acq-VARIANTDim3SizeVoxelSizeDim3_run-01_dwi.nii.gz",
+        "ses-PNC1/dwi/sub-2462036439_ses-PNC1_acq-VARIANTDim3SizeVoxelSizeDim3_run-02_dwi.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
@@ -52,7 +52,7 @@
     "SequenceName": "fl2d2",
     "SequenceVariant": "SP",
     "SeriesDescription": "B0map_onesizefitsall_v3",
-    "SeriesNumber": 7,
+    "SeriesNumber": 6,
     "ShimSetting": [
         4070,
         -6701,
