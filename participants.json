@@ -1,0 +1,58 @@
+{
+  "age": {
+    "LongName": "ParticipantAge",
+    "Description": "Participant age in years at the time of scan/intake. If original data is collected in months, the final value is divided by 12.",
+    "Units": "Years"
+  },
+  "race": {
+    "LongName": "ParticipantRace",
+    "Description": "Participant's race.",
+    "Levels": ["Asian", "Black", "Hispanic", "Mixed", "Other", "White"]
+  },
+  "sex": {
+    "LongName": "ParticipantSex",
+    "Description": "Participant's sex.",
+    "Levels": ["Female", "Male"]
+  },
+  "bmi": {
+    "LongName": "ParticipantBMI",
+    "Description": "Participant's Body Mass Index. ",
+    "TermURL": "https://www.cdc.gov/nccdphp/dnpao/growthcharts/training/bmiage/page5_2.html",
+    "Units": "lbs/inches^2; BMI is normally reported without units."
+  },
+  "handedness": {
+    "LongName": "ParticipantHandedness",
+    "Description": "Participant handedness. Either self-reported, or result of binarizing the Edinburgh Handedness Scale. Participants whose Edinburgh Handedness Scale value is 0 are reported as Ambidextrous",
+    "Levels": ["Ambidextrous", "Left", "Right"],
+    "TermURL": "https://en.wikipedia.org/wiki/Edinburgh_Handedness_Inventory"
+  },
+  "education_years": {
+    "LongName": "ParticipantEducation",
+    "Description": "Participant education in years at time of scan/intake."
+  },
+  "education_f": {
+    "LongName": "FatherEducation",
+    "Description": "Father's education level at time of scan/intake.",
+    "Levels": ["Kindergarten", "1st Grade", "2nd Grade", "3rd Grade", "4th Grade", "5th Grade", "6th Grade", "7th Grade", "8th Grade", "9th Grade", "10th Grade", "11th Grade", "12th Grade", "High School Diploma", "Some College", "Associate's Degree", "Bachelor's Degree", "Doctoral Degree", "Professional Degree"]
+  },
+  "education_m": {
+    "LongName": "MotherEducation",
+    "Description": "Mother's education level at time of scan/intake.",
+    "Levels": ["Kindergarten", "1st Grade", "2nd Grade", "3rd Grade", "4th Grade", "5th Grade", "6th Grade", "7th Grade", "8th Grade", "9th Grade", "10th Grade", "11th Grade", "12th Grade", "High School Diploma", "Some College", "Associate's Degree", "Bachelor's Degree", "Doctoral Degree", "Professional Degree"]
+  },
+  "wave": {
+    "LongName": "ParticipantWave",
+    "Description": "Participant's recruitment wave.",
+    "Levels": {}
+  },
+  "study_site": {
+    "LongName": "ParticipantStudySite",
+    "Description": "Participant's study recruitment site.",
+    "Levels": {}
+  },
+  "study": {
+    "LongName": "ParticipantStudy",
+    "Description": "Participant's study.",
+    "Levels": {}
+  }
+}
