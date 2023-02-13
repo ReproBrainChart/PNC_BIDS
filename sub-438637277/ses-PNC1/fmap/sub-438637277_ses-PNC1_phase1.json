@@ -26,9 +26,7 @@
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
         "ses-PNC1/func/sub-438637277_ses-PNC1_task-frac2back_bold.nii.gz",
-        "ses-PNC1/dwi/sub-438637277_ses-PNC1_run-02_dwi.nii.gz",
         "ses-PNC1/func/sub-438637277_ses-PNC1_task-idemo_bold.nii.gz",
-        "ses-PNC1/dwi/sub-438637277_ses-PNC1_run-01_dwi.nii.gz",
         "ses-PNC1/func/sub-438637277_ses-PNC1_task-rest_acq-singleband_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",

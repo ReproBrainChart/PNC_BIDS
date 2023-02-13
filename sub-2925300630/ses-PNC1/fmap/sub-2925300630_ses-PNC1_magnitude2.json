@@ -25,9 +25,7 @@
     "ImagingFrequency": 123.26,
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-PNC1/dwi/sub-2925300630_ses-PNC1_run-01_dwi.nii.gz",
         "ses-PNC1/func/sub-2925300630_ses-PNC1_task-frac2back_bold.nii.gz",
-        "ses-PNC1/dwi/sub-2925300630_ses-PNC1_run-02_dwi.nii.gz",
         "ses-PNC1/func/sub-2925300630_ses-PNC1_task-rest_acq-singleband_bold.nii.gz",
         "ses-PNC1/func/sub-2925300630_ses-PNC1_task-idemo_bold.nii.gz"
     ],

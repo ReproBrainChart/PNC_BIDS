@@ -25,7 +25,6 @@
     "ImagingFrequency": 123.259,
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-PNC1/dwi/sub-2462036439_ses-PNC1_acq-VARIANTDim3SizeVoxelSizeDim3_run-01_dwi.nii.gz",
         "ses-PNC1/dwi/sub-2462036439_ses-PNC1_acq-VARIANTDim3SizeVoxelSizeDim3_run-02_dwi.nii.gz"
     ],
     "MRAcquisitionType": "2D",
