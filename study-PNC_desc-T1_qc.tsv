@@ -14,7 +14,7 @@ sub-1027389114	PNC	ses-1	-73			1	1	1	1	Pass
 sub-1030193285	PNC	ses-1	-95	1	1				1	Pass
 sub-103652366	PNC	ses-1	-154		1	1		1	1	Pass
 sub-1037644062	PNC	ses-1	-103			1	1	1	1	Pass
-sub-1039797417	PNC	ses-1	-482	0	0.25	0	0	0	0.05	Borderline
+sub-1039797417	PNC	ses-1	-482	0	0.25	0	0	0	0.05	Artifact
 sub-1039936647	PNC	ses-1	-123	1			1		1	Pass
 sub-1043634177	PNC	ses-1	-255	1	1	1	1	1	1	Pass
 sub-1046353426	PNC	ses-1	-81			1	1	1	1	Pass
@@ -36,16 +36,16 @@ sub-1084860562	PNC	ses-1	-115			1	1	1	1	Pass
 sub-108828000	PNC	ses-1	-92		1	1		1	1	Pass
 sub-1088695522	PNC	ses-1	-89	1	1				1	Pass
 sub-1091857727	PNC	ses-1	-104		1	1		1	1	Pass
-sub-1094939473	PNC	ses-1	-453	0.75			0.25		0.5	Borderline
-sub-1095340536	PNC	ses-1	-108	1	1	1	0.75	1	0.95	Borderline
-sub-1097398405	PNC	ses-1	-530		0.5	0.25		0	0.25	Borderline
+sub-1094939473	PNC	ses-1	-453	0.75			0.25		0.5	Artifact
+sub-1095340536	PNC	ses-1	-108	1	1	1	0.75	1	0.95	Artifact
+sub-1097398405	PNC	ses-1	-530		0.5	0.25		0	0.25	Artifact
 sub-1101490424	PNC	ses-1	-123		1	1		1	1	Pass
 sub-1103118018	PNC	ses-1	-63	1			1		1	Pass
 sub-1105526680	PNC	ses-1	-92	1			1		1	Pass
 sub-1110356321	PNC	ses-1	-128		1	1		1	1	Pass
 sub-1111014310	PNC	ses-1	-89			1	1	1	1	Pass
 sub-1113295648	PNC	ses-1	-139		1	1		1	1	Pass
-sub-1114035056	PNC	ses-1	-90			1	1	0.75	0.916666667	Borderline
+sub-1114035056	PNC	ses-1	-90			1	1	0.75	0.916666667	Artifact
 sub-1120275692	PNC	ses-1	-61	1	1				1	Pass
 sub-1120459625	PNC	ses-1	-61		1	1		1	1	Pass
 sub-1120521402	PNC	ses-1	-149	1	1	1	1	1	1	Pass
@@ -54,21 +54,21 @@ sub-1125207511	PNC	ses-1	-265	1			1		1	Pass
 sub-113335479	PNC	ses-1	-195		1	1		1	1	Pass
 sub-1134044888	PNC	ses-1	-138			1	1	1	1	Pass
 sub-1137076695	PNC	ses-1	-108	1	1				1	Pass
-sub-1137996270	PNC	ses-1	-411			1	0.75	0.75	0.833333333	Borderline
+sub-1137996270	PNC	ses-1	-411			1	0.75	0.75	0.833333333	Artifact
 sub-1139941451	PNC	ses-1	-88		1	1		1	1	Pass
 sub-11407866	PNC	ses-1	-95	1			1		1	Pass
-sub-1145936325	PNC	ses-1	-184	1	0.75				0.875	Borderline
+sub-1145936325	PNC	ses-1	-184	1	0.75				0.875	Artifact
 sub-1150278162	PNC	ses-1	-67		1	1		1	1	Pass
 sub-1150591062	PNC	ses-1	-158	1			1		1	Pass
 sub-1152449741	PNC	ses-1	-56			1	1	1	1	Pass
 sub-1156073272	PNC	ses-1	-86			1	1	1	1	Pass
 sub-1157233457	PNC	ses-1	-83	1			1		1	Pass
 sub-11574123	PNC	ses-1	-91	1			1		1	Pass
-sub-1157595916	PNC	ses-1	-81			1	1	0.75	0.916666667	Borderline
-sub-115784129	PNC	ses-1	-137			1	1	0.75	0.916666667	Borderline
+sub-1157595916	PNC	ses-1	-81			1	1	0.75	0.916666667	Artifact
+sub-115784129	PNC	ses-1	-137			1	1	0.75	0.916666667	Artifact
 sub-1161329133	PNC	ses-1	-161			1	1	1	1	Pass
 sub-1161373229	PNC	ses-1	-91	1	1	1	1	1	1	Pass
-sub-1161831083	PNC	ses-1	-250	1		0.5	0.75	0.5	0.6875	Borderline
+sub-1161831083	PNC	ses-1	-250	1		0.5	0.75	0.5	0.6875	Artifact
 sub-1162141764	PNC	ses-1	-63	1			1		1	Pass
 sub-1163553824	PNC	ses-1	-93	1			1		1	Pass
 sub-1164794273	PNC	ses-1	-115	1	1	1	1	1	1	Pass
@@ -86,7 +86,7 @@ sub-1197045954	PNC	ses-1	-254	1	1				1	Pass
 sub-1198356813	PNC	ses-1	-114			1	1	1	1	Pass
 sub-1200684014	PNC	ses-1	-147	1			1		1	Pass
 sub-1201047966	PNC	ses-1	-72			1	1	1	1	Pass
-sub-1204013299	PNC	ses-1	-243	0.75	1	1	0.75	1	0.9	Borderline
+sub-1204013299	PNC	ses-1	-243	0.75	1	1	0.75	1	0.9	Artifact
 sub-1204359507	PNC	ses-1	-118	1	1				1	Pass
 sub-1207361199	PNC	ses-1	-135		1	1		1	1	Pass
 sub-1214132906	PNC	ses-1	-87	1			1		1	Pass
@@ -115,11 +115,11 @@ sub-1299596535	PNC	ses-1	-85		1	1		1	1	Pass
 sub-1299713973	PNC	ses-1	-127			1	1	1	1	Pass
 sub-130118047	PNC	ses-1	-100		1	1		1	1	Pass
 sub-1303822344	PNC	ses-1	-145		1	1		1	1	Pass
-sub-1303893979	PNC	ses-1	-184			1	1	0.25	0.75	Borderline
+sub-1303893979	PNC	ses-1	-184			1	1	0.25	0.75	Artifact
 sub-1304389731	PNC	ses-1	-155	1			1		1	Pass
 sub-1307181116	PNC	ses-1	-71		1	1		1	1	Pass
-sub-1308201745	PNC	ses-1	-203			1	1	0.75	0.916666667	Borderline
-sub-1310206420	PNC	ses-1	-376			1	0.75	0.25	0.666666667	Borderline
+sub-1308201745	PNC	ses-1	-203			1	1	0.75	0.916666667	Artifact
+sub-1310206420	PNC	ses-1	-376			1	0.75	0.25	0.666666667	Artifact
 sub-1310346718	PNC	ses-1	-120		1	1		1	1	Pass
 sub-1313957126	PNC	ses-1	-76	1			1		1	Pass
 sub-131655018	PNC	ses-1	-111		1	1		1	1	Pass
@@ -151,9 +151,9 @@ sub-1400509715	PNC	ses-1	-189	1	1	1	1	1	1	Pass
 sub-1402618672	PNC	ses-1	-242	1	1				1	Pass
 sub-1403873511	PNC	ses-1	-97			1	1	1	1	Pass
 sub-1412450749	PNC	ses-1	-90			1	1	1	1	Pass
-sub-1413282375	PNC	ses-1	-172	1	0.5	0.25	0.75	0.25	0.55	Borderline
+sub-1413282375	PNC	ses-1	-172	1	0.5	0.25	0.75	0.25	0.55	Artifact
 sub-1417920839	PNC	ses-1	-76		1	1		1	1	Pass
-sub-1433666289	PNC	ses-1	-300		0.75	1		0.75	0.833333333	Borderline
+sub-1433666289	PNC	ses-1	-300		0.75	1		0.75	0.833333333	Artifact
 sub-1437821247	PNC	ses-1	-101	1			1		1	Pass
 sub-1438348583	PNC	ses-1	-130	1			1		1	Pass
 sub-1440643572	PNC	ses-1	-139	1			1		1	Pass
@@ -190,7 +190,7 @@ sub-1498873540	PNC	ses-1	-67			1	1	1	1	Pass
 sub-1502224855	PNC	ses-1	-777	0	0				0	Fail
 sub-1506379233	PNC	ses-1	-84			1	1	1	1	Pass
 sub-1506723543	PNC	ses-1	-100	1	1				1	Pass
-sub-1510691965	PNC	ses-1	-117	0.75	1	1	0.75	1	0.9	Borderline
+sub-1510691965	PNC	ses-1	-117	0.75	1	1	0.75	1	0.9	Artifact
 sub-1512248949	PNC	ses-1	-70	1			1		1	Pass
 sub-1512440794	PNC	ses-1	-156	1	1	1	1	1	1	Pass
 sub-1512563087	PNC	ses-1	-149	1	1	1	1	1	1	Pass
@@ -200,9 +200,9 @@ sub-1516788178	PNC	ses-1	-84	1			1		1	Pass
 sub-1521763392	PNC	ses-1	-82	1			1		1	Pass
 sub-1525589082	PNC	ses-1	-230	1	1				1	Pass
 sub-1526154632	PNC	ses-1	-40		1	1		1	1	Pass
-sub-1531348005	PNC	ses-1	-822	0	0	0.25	0.25	0	0.1	Borderline
+sub-1531348005	PNC	ses-1	-822	0	0	0.25	0.25	0	0.1	Artifact
 sub-1531930180	PNC	ses-1	-80			1	1	1	1	Pass
-sub-1533767893	PNC	ses-1	-129			1	1	0.75	0.916666667	Borderline
+sub-1533767893	PNC	ses-1	-129			1	1	0.75	0.916666667	Artifact
 sub-1536441148	PNC	ses-1	-108	1			1		1	Pass
 sub-1545837513	PNC	ses-1	-122			1	1	1	1	Pass
 sub-154667058	PNC	ses-1	-162	1			1		1	Pass
@@ -255,17 +255,17 @@ sub-1643083161	PNC	ses-1	-83		1	1		1	1	Pass
 sub-1643725238	PNC	ses-1	-58		1	1		1	1	Pass
 sub-1645871327	PNC	ses-1	-74	1	1				1	Pass
 sub-1648798153	PNC	ses-1	-241	1			1		1	Pass
-sub-1649501759	PNC	ses-1	-361	1	0.75				0.875	Borderline
+sub-1649501759	PNC	ses-1	-361	1	0.75				0.875	Artifact
 sub-1653206368	PNC	ses-1	-113	1	1	1	1	1	1	Pass
 sub-1654119012	PNC	ses-1	-104	1	1	1	1	1	1	Pass
-sub-1654508502	PNC	ses-1	-25	1		1	0.75	1	0.9375	Borderline
+sub-1654508502	PNC	ses-1	-25	1		1	0.75	1	0.9375	Artifact
 sub-1654523276	PNC	ses-1	-119	1	1	1	1	1	1	Pass
 sub-1656931768	PNC	ses-1	-290	1			1		1	Pass
 sub-1660839245	PNC	ses-1	-211	1	1				1	Pass
 sub-16684978	PNC	ses-1	-95		1	1		1	1	Pass
 sub-1671345251	PNC	ses-1	-76		1	1		1	1	Pass
 sub-1673549883	PNC	ses-1	-164	1			1		1	Pass
-sub-1678076849	PNC	ses-1	-307		0.5	0.75		0.75	0.666666667	Borderline
+sub-1678076849	PNC	ses-1	-307		0.5	0.75		0.75	0.666666667	Artifact
 sub-1679688116	PNC	ses-1	-58	1			1		1	Pass
 sub-1682850665	PNC	ses-1	-153		1	1		1	1	Pass
 sub-1686389288	PNC	ses-1	-62		1	1		1	1	Pass
@@ -284,9 +284,9 @@ sub-1730231179	PNC	ses-1	-101	1	1				1	Pass
 sub-1730541924	PNC	ses-1	-166	1			1		1	Pass
 sub-1735315447	PNC	ses-1	-214	1	1				1	Pass
 sub-1735338986	PNC	ses-1	-57	1			1		1	Pass
-sub-1736791488	PNC	ses-1	-227		0.75	1		1	0.916666667	Borderline
-sub-1738235220	PNC	ses-1	-183		1	1		0.75	0.916666667	Borderline
-sub-1742732745	PNC	ses-1	-288		0.75	1		0.5	0.75	Borderline
+sub-1736791488	PNC	ses-1	-227		0.75	1		1	0.916666667	Artifact
+sub-1738235220	PNC	ses-1	-183		1	1		0.75	0.916666667	Artifact
+sub-1742732745	PNC	ses-1	-288		0.75	1		0.5	0.75	Artifact
 sub-1743802575	PNC	ses-1	-114	1	1	1	1	1	1	Pass
 sub-1744430207	PNC	ses-1	-110	1			1		1	Pass
 sub-1748232481	PNC	ses-1	-102			1	1	1	1	Pass
@@ -315,7 +315,7 @@ sub-1786969075	PNC	ses-1	-165		1	1		1	1	Pass
 sub-1789695979	PNC	ses-1	-107		1	1		1	1	Pass
 sub-1790488894	PNC	ses-1	-96	1	1	1	1	1	1	Pass
 sub-1794346030	PNC	ses-1	-118	1	1	1	1	1	1	Pass
-sub-1794800030	PNC	ses-1	-140	0.5	1				0.75	Borderline
+sub-1794800030	PNC	ses-1	-140	0.5	1				0.75	Artifact
 sub-1795409854	PNC	ses-1	-146	1			1		1	Pass
 sub-1799875502	PNC	ses-1	-99	1			1		1	Pass
 sub-1804076739	PNC	ses-1	-93		1	1		1	1	Pass
@@ -348,7 +348,7 @@ sub-1858784998	PNC	ses-1	-80	1	1				1	Pass
 sub-1859900144	PNC	ses-1	-111	1	1	1	1	1	1	Pass
 sub-1860819350	PNC	ses-1	-110		1	1		1	1	Pass
 sub-1860870575	PNC	ses-1	-63	1			1		1	Pass
-sub-1861299663	PNC	ses-1	-188	1	0.5	0.75	0.75	0.5	0.7	Borderline
+sub-1861299663	PNC	ses-1	-188	1	0.5	0.75	0.75	0.5	0.7	Artifact
 sub-1861767482	PNC	ses-1	-45	1	1				1	Pass
 sub-1867827374	PNC	ses-1	-99			1	1	1	1	Pass
 sub-1870893305	PNC	ses-1	-61			1	1	1	1	Pass
@@ -356,18 +356,18 @@ sub-1871767977	PNC	ses-1	-86	1	1	1	1	1	1	Pass
 sub-1873729948	PNC	ses-1	-102	1			1		1	Pass
 sub-1876155559	PNC	ses-1	-118	1			1		1	Pass
 sub-1877783147	PNC	ses-1	-81		1	1		1	1	Pass
-sub-1885577882	PNC	ses-1	-218	0.5	0.75				0.625	Borderline
+sub-1885577882	PNC	ses-1	-218	0.5	0.75				0.625	Artifact
 sub-1887252222	PNC	ses-1	-136	1	1				1	Pass
 sub-1887390452	PNC	ses-1	-88	1			1		1	Pass
 sub-1890822437	PNC	ses-1	-157	1	1				1	Pass
 sub-1892704317	PNC	ses-1	-121	1			1		1	Pass
 sub-1896354997	PNC	ses-1	-95	1	1				1	Pass
-sub-189913356	PNC	ses-1	-591	0.25	0.5	0.5	0.5	0	0.35	Borderline
+sub-189913356	PNC	ses-1	-591	0.25	0.5	0.5	0.5	0	0.35	Artifact
 sub-190100766	PNC	ses-1	-89	1	1				1	Pass
 sub-1901159589	PNC	ses-1	-155	1	1	1	1	1	1	Pass
 sub-1901910719	PNC	ses-1	-95		1	1		1	1	Pass
 sub-1904270196	PNC	ses-1	-130	1	1				1	Pass
-sub-1904603550	PNC	ses-1	-450			0.5	1	0	0.5	Borderline
+sub-1904603550	PNC	ses-1	-450			0.5	1	0	0.5	Artifact
 sub-1905979097	PNC	ses-1	-66			1	1	1	1	Pass
 sub-1908390739	PNC	ses-1	-103	1	1				1	Pass
 sub-1908959165	PNC	ses-1	-100		1	1		1	1	Pass
@@ -383,7 +383,7 @@ sub-192413932	PNC	ses-1	-126			1	1	1	1	Pass
 sub-1924149526	PNC	ses-1	-142		1	1		1	1	Pass
 sub-1924569075	PNC	ses-1	-146	1	1	1	1	1	1	Pass
 sub-1930702369	PNC	ses-1	-97	1	1	1	1	1	1	Pass
-sub-1934623281	PNC	ses-1	-134	1	1	1	1	0.75	0.95	Borderline
+sub-1934623281	PNC	ses-1	-134	1	1	1	1	0.75	0.95	Artifact
 sub-1939119029	PNC	ses-1	-100	1	1	1	1	1	1	Pass
 sub-1942822174	PNC	ses-1	-183			1	1	1	1	Pass
 sub-194293030	PNC	ses-1	-153	1			1		1	Pass
@@ -411,19 +411,19 @@ sub-200066829	PNC	ses-1	-102	1			1		1	Pass
 sub-2001714085	PNC	ses-1	-164	1	1	1	1	1	1	Pass
 sub-2002122030	PNC	ses-1	-173	1	1	1	1	1	1	Pass
 sub-2010454025	PNC	ses-1	-150	1	1	1	1	1	1	Pass
-sub-2017344284	PNC	ses-1	-191	0.75	1	1	1	1	0.95	Borderline
+sub-2017344284	PNC	ses-1	-191	0.75	1	1	1	1	0.95	Artifact
 sub-2017765808	PNC	ses-1	-160		1	1		1	1	Pass
 sub-2022868892	PNC	ses-1	-154	1	1				1	Pass
 sub-2023285198	PNC	ses-1	-140			1	1	1	1	Pass
 sub-2026754591	PNC	ses-1	-102			1	1	1	1	Pass
 sub-2033463791	PNC	ses-1	-98	1	1				1	Pass
 sub-2037552598	PNC	ses-1	-139		1	1		1	1	Pass
-sub-2038321583	PNC	ses-1	-311			1	0.75	0.5	0.75	Borderline
+sub-2038321583	PNC	ses-1	-311			1	0.75	0.5	0.75	Artifact
 sub-2041229468	PNC	ses-1	-65		1	1		1	1	Pass
 sub-2047559103	PNC	ses-1	-56	1	1	1	1	1	1	Pass
 sub-2047595784	PNC	ses-1	-96	1	1				1	Pass
 sub-2048917421	PNC	ses-1	-88		1	1		1	1	Pass
-sub-2051099070	PNC	ses-1	-112	0.75	0.75	1	1	0.75	0.85	Borderline
+sub-2051099070	PNC	ses-1	-112	0.75	0.75	1	1	0.75	0.85	Artifact
 sub-2057058534	PNC	ses-1	-73	1	1	1	1	1	1	Pass
 sub-2058693392	PNC	ses-1	-120			1	1	1	1	Pass
 sub-2060298621	PNC	ses-1	-71	1	1	1	1	1	1	Pass
@@ -439,15 +439,15 @@ sub-2097242394	PNC	ses-1	-96	1	1	1	1	1	1	Pass
 sub-2100052286	PNC	ses-1	-74		1	1		1	1	Pass
 sub-2103228157	PNC	ses-1	-169			1	1	1	1	Pass
 sub-210534092	PNC	ses-1	-86	1			1		1	Pass
-sub-2105801105	PNC	ses-1	-91			1	1	0.75	0.916666667	Borderline
+sub-2105801105	PNC	ses-1	-91			1	1	0.75	0.916666667	Artifact
 sub-2108841974	PNC	ses-1	-129	1			1		1	Pass
 sub-2108937486	PNC	ses-1	-97	1	1	1	1	1	1	Pass
 sub-2110496117	PNC	ses-1	-83	1	1	1	1	1	1	Pass
 sub-211169351	PNC	ses-1	-94	1			1		1	Pass
-sub-2112119995	PNC	ses-1	-151			1	0.75	0.5	0.75	Borderline
+sub-2112119995	PNC	ses-1	-151			1	0.75	0.5	0.75	Artifact
 sub-2112189288	PNC	ses-1	-240			1	1	1	1	Pass
 sub-2112415953	PNC	ses-1	-73		1	1		1	1	Pass
-sub-2117857991	PNC	ses-1	-446		0.5	1		0.5	0.666666667	Borderline
+sub-2117857991	PNC	ses-1	-446		0.5	1		0.5	0.666666667	Artifact
 sub-2129564650	PNC	ses-1	-130		1	1		1	1	Pass
 sub-2131488178	PNC	ses-1	-130			1	1	1	1	Pass
 sub-2133389205	PNC	ses-1	-109			1	1	1	1	Pass
@@ -464,14 +464,14 @@ sub-2166835733	PNC	ses-1	-153			1	1	1	1	Pass
 sub-2167615125	PNC	ses-1	-200			1	1	1	1	Pass
 sub-2170759229	PNC	ses-1	-77	1	1				1	Pass
 sub-2170880573	PNC	ses-1	-138	1			1		1	Pass
-sub-2171168019	PNC	ses-1	-68	0.75			1		0.875	Borderline
+sub-2171168019	PNC	ses-1	-68	0.75			1		0.875	Artifact
 sub-2171240541	PNC	ses-1	-46	1	1	1	1	1	1	Pass
 sub-2172281415	PNC	ses-1	-69	1			1		1	Pass
 sub-2175309663	PNC	ses-1	-175	1	1				1	Pass
 sub-2175676858	PNC	ses-1	-120			1	1	1	1	Pass
 sub-2180081033	PNC	ses-1	-78		1	1		1	1	Pass
 sub-2180316189	PNC	ses-1	-145	1	1				1	Pass
-sub-2180688285	PNC	ses-1	-255			1	1	0.25	0.75	Borderline
+sub-2180688285	PNC	ses-1	-255			1	1	0.25	0.75	Artifact
 sub-2180799847	PNC	ses-1	-214	1	1	1	1	1	1	Pass
 sub-2180976537	PNC	ses-1	-87	1	1				1	Pass
 sub-2182362214	PNC	ses-1	-82	1	1				1	Pass
@@ -481,8 +481,8 @@ sub-2194652555	PNC	ses-1	-130			1	1	1	1	Pass
 sub-2200266312	PNC	ses-1	-97			1	1	1	1	Pass
 sub-2200670875	PNC	ses-1	-111	1	1				1	Pass
 sub-2202346713	PNC	ses-1	-77			1	1	1	1	Pass
-sub-2207352563	PNC	ses-1	-534	0.25			1		0.625	Borderline
-sub-2209414761	PNC	ses-1	-401	0.5	0.25	0.5	0.5	0	0.35	Borderline
+sub-2207352563	PNC	ses-1	-534	0.25			1		0.625	Artifact
+sub-2209414761	PNC	ses-1	-401	0.5	0.25	0.5	0.5	0	0.35	Artifact
 sub-2215153516	PNC	ses-1	-84	1	1	1	1	1	1	Pass
 sub-2216595430	PNC	ses-1	-136	1	1	1	1	1	1	Pass
 sub-221853583	PNC	ses-1	-93			1	1	1	1	Pass
@@ -496,13 +496,13 @@ sub-2240703148	PNC	ses-1	-95	1	1	1	1	1	1	Pass
 sub-2242628840	PNC	ses-1	-210		1	1		1	1	Pass
 sub-2247752771	PNC	ses-1	-236		1	1		1	1	Pass
 sub-2248403809	PNC	ses-1	-232			1	1	1	1	Pass
-sub-2249335715	PNC	ses-1	-93			1	1	0.75	0.916666667	Borderline
+sub-2249335715	PNC	ses-1	-93			1	1	0.75	0.916666667	Artifact
 sub-225017631	PNC	ses-1	-142	1	1	1	1	1	1	Pass
 sub-2253200176	PNC	ses-1	-94		1	1		1	1	Pass
-sub-2254317902	PNC	ses-1	-72			1	1	0.75	0.916666667	Borderline
+sub-2254317902	PNC	ses-1	-72			1	1	0.75	0.916666667	Artifact
 sub-2256834144	PNC	ses-1	-52	1	1	1	1	1	1	Pass
-sub-2258551019	PNC	ses-1	-456	0	0.25				0.125	Borderline
-sub-2259039644	PNC	ses-1	-164			1	1	0.75	0.916666667	Borderline
+sub-2258551019	PNC	ses-1	-456	0	0.25				0.125	Artifact
+sub-2259039644	PNC	ses-1	-164			1	1	0.75	0.916666667	Artifact
 sub-2262929710	PNC	ses-1	-160	1			1		1	Pass
 sub-2263443077	PNC	ses-1	-110	1	1				1	Pass
 sub-2269734277	PNC	ses-1	-269		1	1		1	1	Pass
@@ -510,8 +510,8 @@ sub-2271737742	PNC	ses-1	-67	1	1	1	1	1	1	Pass
 sub-2272230240	PNC	ses-1	-82			1	1	1	1	Pass
 sub-2280234873	PNC	ses-1	-72		1	1		1	1	Pass
 sub-2285120424	PNC	ses-1	-90	1	1	1	1	1	1	Pass
-sub-228519096	PNC	ses-1	-332	0.75	1				0.875	Borderline
-sub-2286509730	PNC	ses-1	-393	0.75	0.5				0.625	Borderline
+sub-228519096	PNC	ses-1	-332	0.75	1				0.875	Artifact
+sub-2286509730	PNC	ses-1	-393	0.75	0.5				0.625	Artifact
 sub-2289849916	PNC	ses-1	-62			1	1	1	1	Pass
 sub-2292204095	PNC	ses-1	-48	1	1				1	Pass
 sub-2293300734	PNC	ses-1	-127	1	1	1	1	1	1	Pass
@@ -529,7 +529,7 @@ sub-2318786012	PNC	ses-1	-112			1	1	1	1	Pass
 sub-2319274290	PNC	ses-1	-137			1	1	1	1	Pass
 sub-2319442352	PNC	ses-1	-108			1	1	1	1	Pass
 sub-2319858717	PNC	ses-1	-185			1	1	1	1	Pass
-sub-2321665294	PNC	ses-1	-164	1	0.5	0.75	0.5	1	0.75	Borderline
+sub-2321665294	PNC	ses-1	-164	1	0.5	0.75	0.5	1	0.75	Artifact
 sub-2322119606	PNC	ses-1	-113	1			1		1	Pass
 sub-2323472643	PNC	ses-1	-127			1	1	1	1	Pass
 sub-232853819	PNC	ses-1	-67		1	1		1	1	Pass
@@ -544,7 +544,7 @@ sub-233932345	PNC	ses-1	-166	1	1				1	Pass
 sub-2340561949	PNC	ses-1	-89			1	1	1	1	Pass
 sub-2344269626	PNC	ses-1	-108	1	1				1	Pass
 sub-234528430	PNC	ses-1	-111	1			1		1	Pass
-sub-2347753317	PNC	ses-1	-406		0.25	0		0.75	0.333333333	Borderline
+sub-2347753317	PNC	ses-1	-406		0.25	0		0.75	0.333333333	Artifact
 sub-2351609522	PNC	ses-1	-114			1	1	1	1	Pass
 sub-235478560	PNC	ses-1	-168	1	1	1	1	1	1	Pass
 sub-2355359789	PNC	ses-1	-127	1	1	1	1	1	1	Pass
@@ -553,17 +553,17 @@ sub-2365721251	PNC	ses-1	-158		1	1		1	1	Pass
 sub-2367528097	PNC	ses-1	-136	1	1				1	Pass
 sub-2374556661	PNC	ses-1	-132			1	1	1	1	Pass
 sub-2375649228	PNC	ses-1	-328	1			1		1	Pass
-sub-2385983560	PNC	ses-1	-112		0.75	1		1	0.916666667	Borderline
+sub-2385983560	PNC	ses-1	-112		0.75	1		1	0.916666667	Artifact
 sub-2390107820	PNC	ses-1	-164	1	1				1	Pass
-sub-2392768937	PNC	ses-1	-167			1	1	0.75	0.916666667	Borderline
-sub-2394345225	PNC	ses-1	-105	1	0.75	1	1	1	0.95	Borderline
+sub-2392768937	PNC	ses-1	-167			1	1	0.75	0.916666667	Artifact
+sub-2394345225	PNC	ses-1	-105	1	0.75	1	1	1	0.95	Artifact
 sub-2397365139	PNC	ses-1	-109			1	1	1	1	Pass
 sub-2397937510	PNC	ses-1	-94	1	1				1	Pass
-sub-2398605805	PNC	ses-1	-256	0.75			0.75		0.75	Borderline
+sub-2398605805	PNC	ses-1	-256	0.75			0.75		0.75	Artifact
 sub-2402029124	PNC	ses-1	-94	1			1		1	Pass
 sub-2403464508	PNC	ses-1	-189	1	1				1	Pass
 sub-2404418579	PNC	ses-1	-108		1	1		1	1	Pass
-sub-2404507707	PNC	ses-1	-205			1	0.75	0.5	0.75	Borderline
+sub-2404507707	PNC	ses-1	-205			1	0.75	0.5	0.75	Artifact
 sub-2404916865	PNC	ses-1	-97	1			1		1	Pass
 sub-2408914693	PNC	ses-1	-76	1	1				1	Pass
 sub-2412716526	PNC	ses-1	-48		1	1		1	1	Pass
@@ -571,7 +571,7 @@ sub-2413176236	PNC	ses-1	-55	1	1				1	Pass
 sub-2420532406	PNC	ses-1	-131	1	1				1	Pass
 sub-2422503990	PNC	ses-1	-157		1	1		1	1	Pass
 sub-2422512134	PNC	ses-1	-75	1	1	1	1	1	1	Pass
-sub-2423596559	PNC	ses-1	-66	1	0.75	1	1	1	0.95	Borderline
+sub-2423596559	PNC	ses-1	-66	1	0.75	1	1	1	0.95	Artifact
 sub-2424990755	PNC	ses-1	-80	1	1				1	Pass
 sub-2425606479	PNC	ses-1	-109	1	1				1	Pass
 sub-2428446542	PNC	ses-1	-173	1	1				1	Pass
@@ -583,7 +583,7 @@ sub-2441231201	PNC	ses-1	-82		1	1		1	1	Pass
 sub-2442304782	PNC	ses-1	-68	1	1	1	1	1	1	Pass
 sub-2446607895	PNC	ses-1	-86		1	1		1	1	Pass
 sub-2449123338	PNC	ses-1	-79	1	1				1	Pass
-sub-2450905343	PNC	ses-1	-131	1		1	1	0.75	0.9375	Borderline
+sub-2450905343	PNC	ses-1	-131	1		1	1	0.75	0.9375	Artifact
 sub-2457761447	PNC	ses-1	-74	1			1		1	Pass
 sub-2461687277	PNC	ses-1	-98	1			1		1	Pass
 sub-2464767924	PNC	ses-1	-75	1	1				1	Pass
@@ -593,14 +593,14 @@ sub-2470516380	PNC	ses-1	-73			1	1	1	1	Pass
 sub-2470886822	PNC	ses-1	-134	1	1				1	Pass
 sub-248138276	PNC	ses-1	-63			1	1	1	1	Pass
 sub-248585929	PNC	ses-1	-85	1			1		1	Pass
-sub-2485879167	PNC	ses-1	-148	1	0.75				0.875	Borderline
+sub-2485879167	PNC	ses-1	-148	1	0.75				0.875	Artifact
 sub-2490635263	PNC	ses-1	-47			1	1	1	1	Pass
 sub-2498589740	PNC	ses-1	-149		1	1		1	1	Pass
 sub-2499963942	PNC	ses-1	-66	1			1		1	Pass
 sub-250211156	PNC	ses-1	-155	1	1				1	Pass
 sub-2507776631	PNC	ses-1	-70	1	1				1	Pass
 sub-2508284118	PNC	ses-1	-82	1	1	1	1	1	1	Pass
-sub-2511291760	PNC	ses-1	-340			1	1	0.5	0.833333333	Borderline
+sub-2511291760	PNC	ses-1	-340			1	1	0.5	0.833333333	Artifact
 sub-2518846638	PNC	ses-1	-170		1	1		1	1	Pass
 sub-2529143538	PNC	ses-1	-73		1	1		1	1	Pass
 sub-2533255886	PNC	ses-1	-118			1	1	1	1	Pass
@@ -632,7 +632,7 @@ sub-2613113832	PNC	ses-1	-230	1			1		1	Pass
 sub-2614145086	PNC	ses-1	-55			1	1	1	1	Pass
 sub-261887422	PNC	ses-1	-114	1			1		1	Pass
 sub-2620895813	PNC	ses-1	-111	1			1		1	Pass
-sub-2622601913	PNC	ses-1	-210			1	0.75	0.5	0.75	Borderline
+sub-2622601913	PNC	ses-1	-210			1	0.75	0.5	0.75	Artifact
 sub-2625488221	PNC	ses-1	-92			1	1	1	1	Pass
 sub-2625808132	PNC	ses-1	-225	1	1				1	Pass
 sub-2625914260	PNC	ses-1	-203		1	1		1	1	Pass
@@ -650,7 +650,7 @@ sub-2657079253	PNC	ses-1	-95			1	1	1	1	Pass
 sub-265721632	PNC	ses-1	-111			1	1	1	1	Pass
 sub-2657764686	PNC	ses-1	-114	1			1		1	Pass
 sub-2658232795	PNC	ses-1	-90		1	1		1	1	Pass
-sub-2664902924	PNC	ses-1	-442	0.25	0.25				0.25	Borderline
+sub-2664902924	PNC	ses-1	-442	0.25	0.25				0.25	Artifact
 sub-2670354621	PNC	ses-1	-45	1			1		1	Pass
 sub-2670840190	PNC	ses-1	-154	1			1		1	Pass
 sub-2671429330	PNC	ses-1	-62	1	1	1	1	1	1	Pass
@@ -661,23 +661,23 @@ sub-2688141773	PNC	ses-1	-83	1	1				1	Pass
 sub-2689188662	PNC	ses-1	-102			1	1	1	1	Pass
 sub-2691009321	PNC	ses-1	-127	1	1				1	Pass
 sub-2691116331	PNC	ses-1	-130	1			1		1	Pass
-sub-2694518755	PNC	ses-1	-344	1	0.75	0.75	1	0.75	0.85	Borderline
+sub-2694518755	PNC	ses-1	-344	1	0.75	0.75	1	0.75	0.85	Artifact
 sub-2696622128	PNC	ses-1	-119	1			1		1	Pass
 sub-2705533334	PNC	ses-1	-143			1	1	1	1	Pass
 sub-2706712860	PNC	ses-1	-97	1			1		1	Pass
-sub-2709385105	PNC	ses-1	-270			1	1	0.75	0.916666667	Borderline
+sub-2709385105	PNC	ses-1	-270			1	1	0.75	0.916666667	Artifact
 sub-2710058273	PNC	ses-1	-73	1	1	1	1	1	1	Pass
 sub-2710418039	PNC	ses-1	-86	1	1	1	1	1	1	Pass
 sub-2711538206	PNC	ses-1	-79		1	1		1	1	Pass
 sub-2714001943	PNC	ses-1	-86	1	1	1	1	1	1	Pass
 sub-2715820110	PNC	ses-1	-93		1	1		1	1	Pass
-sub-2718695342	PNC	ses-1	-473	0.5	0.5				0.5	Borderline
+sub-2718695342	PNC	ses-1	-473	0.5	0.5				0.5	Artifact
 sub-2718945982	PNC	ses-1	-107	1	1	1	1	1	1	Pass
-sub-2719078954	PNC	ses-1	-95	0.75	1	1	1	1	0.95	Borderline
+sub-2719078954	PNC	ses-1	-95	0.75	1	1	1	1	0.95	Artifact
 sub-2720014197	PNC	ses-1	-84		1	1		1	1	Pass
 sub-2721211800	PNC	ses-1	-125	1			1		1	Pass
-sub-2723385487	PNC	ses-1	-386	0.75			1		0.875	Borderline
-sub-272468530	PNC	ses-1	-707	0.75			0.75		0.75	Borderline
+sub-2723385487	PNC	ses-1	-386	0.75			1		0.875	Artifact
+sub-272468530	PNC	ses-1	-707	0.75			0.75		0.75	Artifact
 sub-2726043986	PNC	ses-1	-255		1	1		1	1	Pass
 sub-2726208310	PNC	ses-1	-114	1			1		1	Pass
 sub-272785799	PNC	ses-1	-156			1	1	1	1	Pass
@@ -706,9 +706,9 @@ sub-276761217	PNC	ses-1	-70	1			1		1	Pass
 sub-277233792	PNC	ses-1	-117		1	1		1	1	Pass
 sub-2774105134	PNC	ses-1	-76			1	1	1	1	Pass
 sub-2776193382	PNC	ses-1	-111	1	1	1	1	1	1	Pass
-sub-277985884	PNC	ses-1	-262		0.75	1		1	0.916666667	Borderline
+sub-277985884	PNC	ses-1	-262		0.75	1		1	0.916666667	Artifact
 sub-2780566236	PNC	ses-1	-108	1	1				1	Pass
-sub-2781760374	PNC	ses-1	-301			0.75	1	0.25	0.666666667	Borderline
+sub-2781760374	PNC	ses-1	-301			0.75	1	0.25	0.666666667	Artifact
 sub-2785454369	PNC	ses-1	-131			1	1	1	1	Pass
 sub-27876862	PNC	ses-1	-89	1			1		1	Pass
 sub-278814796	PNC	ses-1	-59			1	1	1	1	Pass
@@ -732,7 +732,7 @@ sub-2824389829	PNC	ses-1	-182	1	1				1	Pass
 sub-2828263690	PNC	ses-1	-59	1	1				1	Pass
 sub-2830121192	PNC	ses-1	-134	1	1				1	Pass
 sub-2832458131	PNC	ses-1	-92		1	1		1	1	Pass
-sub-283366029	PNC	ses-1	-90		0.75	1		1	0.916666667	Borderline
+sub-283366029	PNC	ses-1	-90		0.75	1		1	0.916666667	Artifact
 sub-2840008346	PNC	ses-1	-103	1			1		1	Pass
 sub-2842709105	PNC	ses-1	-119	1	1				1	Pass
 sub-2851612661	PNC	ses-1	-125		1	1		1	1	Pass
@@ -759,7 +759,7 @@ sub-2905849066	PNC	ses-1	-181	1	1	1	1	1	1	Pass
 sub-2906198493	PNC	ses-1	-108		1	1		1	1	Pass
 sub-2906925573	PNC	ses-1	-207	1	1				1	Pass
 sub-2918766267	PNC	ses-1	-345		1	1		1	1	Pass
-sub-2919917027	PNC	ses-1	-139			0.75	1	0.5	0.75	Borderline
+sub-2919917027	PNC	ses-1	-139			0.75	1	0.5	0.75	Artifact
 sub-2925300630	PNC	ses-1	-91		1	1		1	1	Pass
 sub-2928085046	PNC	ses-1	-209	1	1	1	1	1	1	Pass
 sub-2929280193	PNC	ses-1	-147	1	1	1	1	1	1	Pass
@@ -769,19 +769,19 @@ sub-2932569616	PNC	ses-1	-98	1	1	1	1	1	1	Pass
 sub-2932582600	PNC	ses-1	-82		1	1		1	1	Pass
 sub-2933325835	PNC	ses-1	-110			1	1	1	1	Pass
 sub-2933490015	PNC	ses-1	-153			1	1	1	1	Pass
-sub-2933854864	PNC	ses-1	-263			1	1	0.25	0.75	Borderline
+sub-2933854864	PNC	ses-1	-263			1	1	0.25	0.75	Artifact
 sub-2934644075	PNC	ses-1	-120	1	1	1	1	1	1	Pass
 sub-2935256495	PNC	ses-1	-163		1	1		1	1	Pass
 sub-2939120682	PNC	ses-1	-106	1	1				1	Pass
 sub-2939479952	PNC	ses-1	-100	1	1				1	Pass
 sub-2943493898	PNC	ses-1	-132			1	1	1	1	Pass
-sub-2947976933	PNC	ses-1	-210	0.5	1	1	1	1	0.9	Borderline
+sub-2947976933	PNC	ses-1	-210	0.5	1	1	1	1	0.9	Artifact
 sub-2951167051	PNC	ses-1	-115	1			1		1	Pass
 sub-2967555571	PNC	ses-1	-85	1	1	1	1	1	1	Pass
 sub-2967570405	PNC	ses-1	-89		1	1		1	1	Pass
 sub-296947353	PNC	ses-1	-82	1	1	1	1	1	1	Pass
 sub-2970389523	PNC	ses-1	-73	1	1				1	Pass
-sub-2972126748	PNC	ses-1	-145			1	1	0.75	0.916666667	Borderline
+sub-2972126748	PNC	ses-1	-145			1	1	0.75	0.916666667	Artifact
 sub-2976850765	PNC	ses-1	-113			1	1	1	1	Pass
 sub-2978762615	PNC	ses-1	-76	1	1	1	1	1	1	Pass
 sub-2979786632	PNC	ses-1	-73	1			1		1	Pass
@@ -810,7 +810,7 @@ sub-3043294809	PNC	ses-1	-101	1	1				1	Pass
 sub-3052691308	PNC	ses-1	-167		1	1		1	1	Pass
 sub-3055237322	PNC	ses-1	-136	1	1	1	1	1	1	Pass
 sub-3059148008	PNC	ses-1	-131	1			1		1	Pass
-sub-3060404940	PNC	ses-1	-460		0	0.25		0	0.083333333	Borderline
+sub-3060404940	PNC	ses-1	-460		0	0.25		0	0.083333333	Artifact
 sub-3062402909	PNC	ses-1	-104	1			1		1	Pass
 sub-3066751024	PNC	ses-1	-78			1	1	1	1	Pass
 sub-306816217	PNC	ses-1	-72	1	1				1	Pass
@@ -825,7 +825,7 @@ sub-3090659941	PNC	ses-1	-132	1	1	1	1	1	1	Pass
 sub-309129555	PNC	ses-1	-147			1	1	1	1	Pass
 sub-3091738725	PNC	ses-1	-100	1			1		1	Pass
 sub-3091757174	PNC	ses-1	-80			1	1	1	1	Pass
-sub-3092187032	PNC	ses-1	-371	0.25	0.25	0.75	0.75	0.5	0.5	Borderline
+sub-3092187032	PNC	ses-1	-371	0.25	0.25	0.75	0.75	0.5	0.5	Artifact
 sub-3093541482	PNC	ses-1	-343	0	0				0	Fail
 sub-3095311898	PNC	ses-1	-102	1	1				1	Pass
 sub-3100094802	PNC	ses-1	-133	1			1		1	Pass
@@ -859,7 +859,7 @@ sub-3182049011	PNC	ses-1	-123	1	1	1	1	1	1	Pass
 sub-3185151244	PNC	ses-1	-121		1	1		1	1	Pass
 sub-3185171421	PNC	ses-1	-80	1	1	1	1	1	1	Pass
 sub-3190586154	PNC	ses-1	-106	1			1		1	Pass
-sub-3190862186	PNC	ses-1	-231	1	1	1	1	0.5	0.9	Borderline
+sub-3190862186	PNC	ses-1	-231	1	1	1	1	0.5	0.9	Artifact
 sub-3192540230	PNC	ses-1	-124			1	1	1	1	Pass
 sub-3194237272	PNC	ses-1	-249	1	1				1	Pass
 sub-3194463561	PNC	ses-1	-81	1			1		1	Pass
@@ -885,17 +885,17 @@ sub-3234489701	PNC	ses-1	-56		1	1		1	1	Pass
 sub-3234586495	PNC	ses-1	-199	1	1	1	1	1	1	Pass
 sub-3235320003	PNC	ses-1	-250		1	1		1	1	Pass
 sub-3236504015	PNC	ses-1	-110		1	1		1	1	Pass
-sub-3236644272	PNC	ses-1	-220			1	1	0.75	0.916666667	Borderline
+sub-3236644272	PNC	ses-1	-220			1	1	0.75	0.916666667	Artifact
 sub-3239156026	PNC	ses-1	-531			0	0	0	0	Fail
 sub-3241674953	PNC	ses-1	-173	1			1		1	Pass
-sub-3245338991	PNC	ses-1	-195			1	1	0.75	0.916666667	Borderline
+sub-3245338991	PNC	ses-1	-195			1	1	0.75	0.916666667	Artifact
 sub-3245755395	PNC	ses-1	-75	1	1				1	Pass
 sub-3245954075	PNC	ses-1	-121	1	1				1	Pass
 sub-324718088	PNC	ses-1	-100	1	1	1	1	1	1	Pass
 sub-3247943782	PNC	ses-1	-139	1	1	1	1	1	1	Pass
-sub-3249817543	PNC	ses-1	-56	1	1	1	1	0.75	0.95	Borderline
+sub-3249817543	PNC	ses-1	-56	1	1	1	1	0.75	0.95	Artifact
 sub-3250922962	PNC	ses-1	-152		1	1		1	1	Pass
-sub-3253387239	PNC	ses-1	-85			1	0.75	1	0.916666667	Borderline
+sub-3253387239	PNC	ses-1	-85			1	0.75	1	0.916666667	Artifact
 sub-3255836650	PNC	ses-1	-103			1	1	1	1	Pass
 sub-3260871738	PNC	ses-1	-188			1	1	1	1	Pass
 sub-3260960488	PNC	ses-1	-138		1	1		1	1	Pass
@@ -907,7 +907,7 @@ sub-326891280	PNC	ses-1	-115		1	1		1	1	Pass
 sub-3271604994	PNC	ses-1	-188	1			1		1	Pass
 sub-3275217080	PNC	ses-1	-138			1	1	1	1	Pass
 sub-3277181789	PNC	ses-1	-156		1	1		1	1	Pass
-sub-3279245901	PNC	ses-1	-374		0.5	1		1	0.833333333	Borderline
+sub-3279245901	PNC	ses-1	-374		0.5	1		1	0.833333333	Artifact
 sub-3288745244	PNC	ses-1	-130	1	1				1	Pass
 sub-3289273628	PNC	ses-1	-106	1	1	1	1	1	1	Pass
 sub-3289562482	PNC	ses-1	-69			1	1	1	1	Pass
@@ -929,14 +929,14 @@ sub-3340124957	PNC	ses-1	-149		1	1		1	1	Pass
 sub-3340851327	PNC	ses-1	-122			1	1	1	1	Pass
 sub-3342182273	PNC	ses-1	-68		1	1		1	1	Pass
 sub-334290435	PNC	ses-1	-87			1	1	1	1	Pass
-sub-3343129791	PNC	ses-1	-165			1	1	0.75	0.916666667	Borderline
+sub-3343129791	PNC	ses-1	-165			1	1	0.75	0.916666667	Artifact
 sub-334468298	PNC	ses-1	-84			1	1	1	1	Pass
 sub-3345297865	PNC	ses-1	-95		1	1		1	1	Pass
 sub-3346107281	PNC	ses-1	-78	1			1		1	Pass
-sub-3346511370	PNC	ses-1	-161	1	0.75	1	1	1	0.95	Borderline
+sub-3346511370	PNC	ses-1	-161	1	0.75	1	1	1	0.95	Artifact
 sub-3349861642	PNC	ses-1	-195	1	1	1	1	1	1	Pass
 sub-335003211	PNC	ses-1	-65	1	1				1	Pass
-sub-335104664	PNC	ses-1	-97		1	1		0.75	0.916666667	Borderline
+sub-335104664	PNC	ses-1	-97		1	1		0.75	0.916666667	Artifact
 sub-3351164964	PNC	ses-1	-70		1	1		1	1	Pass
 sub-3354511550	PNC	ses-1	-100	1			1		1	Pass
 sub-3357695482	PNC	ses-1	-56	1			1		1	Pass
@@ -955,7 +955,7 @@ sub-3381441522	PNC	ses-1	-166	1	1	1	1	1	1	Pass
 sub-3386202055	PNC	ses-1	-65		1	1		1	1	Pass
 sub-3392035756	PNC	ses-1	-49	1			1		1	Pass
 sub-3392963865	PNC	ses-1	-125			1	1	1	1	Pass
-sub-340803193	PNC	ses-1	-291	0.5	0.75				0.625	Borderline
+sub-340803193	PNC	ses-1	-291	0.5	0.75				0.625	Artifact
 sub-3410508529	PNC	ses-1	-116	1	1				1	Pass
 sub-3410573615	PNC	ses-1	-73	1			1		1	Pass
 sub-3410668296	PNC	ses-1	-170	1	1	1	1	1	1	Pass
@@ -964,22 +964,22 @@ sub-3419043004	PNC	ses-1	-146		1	1		1	1	Pass
 sub-342333582	PNC	ses-1	-108	1			1		1	Pass
 sub-3428149887	PNC	ses-1	-97		1	1		1	1	Pass
 sub-3437461935	PNC	ses-1	-106			1	1	1	1	Pass
-sub-3438308617	PNC	ses-1	-576	0.5	0.25				0.375	Borderline
+sub-3438308617	PNC	ses-1	-576	0.5	0.25				0.375	Artifact
 sub-3439727076	PNC	ses-1	-74	1	1				1	Pass
 sub-3441116881	PNC	ses-1	-157			1	1	1	1	Pass
 sub-3443753647	PNC	ses-1	-147	1			1		1	Pass
 sub-3443950251	PNC	ses-1	-74	1	1	1	1	1	1	Pass
-sub-3445089839	PNC	ses-1	-177		0.75	1		0.75	0.833333333	Borderline
+sub-3445089839	PNC	ses-1	-177		0.75	1		0.75	0.833333333	Artifact
 sub-3445216767	PNC	ses-1	-85	1			1		1	Pass
-sub-344766746	PNC	ses-1	-184		0.75	1		1	0.916666667	Borderline
-sub-3447842173	PNC	ses-1	-181	0.75	1				0.875	Borderline
+sub-344766746	PNC	ses-1	-184		0.75	1		1	0.916666667	Artifact
+sub-3447842173	PNC	ses-1	-181	0.75	1				0.875	Artifact
 sub-3450122487	PNC	ses-1	-161		1	1		1	1	Pass
 sub-3451752350	PNC	ses-1	-135	1	1	1	1	1	1	Pass
 sub-3452453842	PNC	ses-1	-74		1	1		1	1	Pass
 sub-3458965699	PNC	ses-1	-96	1	1				1	Pass
 sub-3459140306	PNC	ses-1	-164		1	1		1	1	Pass
 sub-3463353736	PNC	ses-1	-55	1			1		1	Pass
-sub-3467479455	PNC	ses-1	-236			0.75	1	0.25	0.666666667	Borderline
+sub-3467479455	PNC	ses-1	-236			0.75	1	0.25	0.666666667	Artifact
 sub-3468032341	PNC	ses-1	-81	1	1				1	Pass
 sub-3470362520	PNC	ses-1	-75		1	1		1	1	Pass
 sub-3470445476	PNC	ses-1	-154	1			1		1	Pass
@@ -988,7 +988,7 @@ sub-3474496151	PNC	ses-1	-97	1			1		1	Pass
 sub-3477990078	PNC	ses-1	-67	1	1				1	Pass
 sub-3481634232	PNC	ses-1	-150		1	1		1	1	Pass
 sub-3482208722	PNC	ses-1	-90			1	1	1	1	Pass
-sub-3486713588	PNC	ses-1	-444	0	0.25	0.75	0.5	0	0.3	Borderline
+sub-3486713588	PNC	ses-1	-444	0	0.25	0.75	0.5	0	0.3	Artifact
 sub-348711479	PNC	ses-1	-76	1	1				1	Pass
 sub-348742929	PNC	ses-1	-88		1	1		1	1	Pass
 sub-3495559578	PNC	ses-1	-177			1	1	1	1	Pass
@@ -1014,7 +1014,7 @@ sub-3533959599	PNC	ses-1	-63			1	1	1	1	Pass
 sub-3535052608	PNC	ses-1	-149			1	1	1	1	Pass
 sub-3535898260	PNC	ses-1	-102		1	1		1	1	Pass
 sub-3538085126	PNC	ses-1	-107	1	1				1	Pass
-sub-3539567950	PNC	ses-1	-101			1	1	0.75	0.916666667	Borderline
+sub-3539567950	PNC	ses-1	-101			1	1	0.75	0.916666667	Artifact
 sub-3539717209	PNC	ses-1	-108		1	1		1	1	Pass
 sub-3544869608	PNC	ses-1	-95	1			1		1	Pass
 sub-3545637731	PNC	ses-1	-63	1	1	1	1	1	1	Pass
@@ -1037,7 +1037,7 @@ sub-360427065	PNC	ses-1	-90	1			1		1	Pass
 sub-360459346	PNC	ses-1	-79		1	1		1	1	Pass
 sub-3604691191	PNC	ses-1	-209		1	1		1	1	Pass
 sub-3605497536	PNC	ses-1	-231		1	1		1	1	Pass
-sub-3606976091	PNC	ses-1	-90		1	1		0.75	0.916666667	Borderline
+sub-3606976091	PNC	ses-1	-90		1	1		0.75	0.916666667	Artifact
 sub-3607981599	PNC	ses-1	-110	1			1		1	Pass
 sub-3608113928	PNC	ses-1	-67			1	1	1	1	Pass
 sub-3612049856	PNC	ses-1	-78	1	1	1	1	1	1	Pass
@@ -1052,7 +1052,7 @@ sub-362293270	PNC	ses-1	-137		1	1		1	1	Pass
 sub-3625162682	PNC	ses-1	-149	1			1		1	Pass
 sub-363441871	PNC	ses-1	-64			1	1	1	1	Pass
 sub-3635306093	PNC	ses-1	-110			1	1	1	1	Pass
-sub-3637736036	PNC	ses-1	-456	0	0	0	0.25	0	0.05	Borderline
+sub-3637736036	PNC	ses-1	-456	0	0	0	0.25	0	0.05	Artifact
 sub-3644730316	PNC	ses-1	-123	1			1		1	Pass
 sub-3647998632	PNC	ses-1	-37	1		1	1	1	1	Pass
 sub-3653965527	PNC	ses-1	-192	1	1				1	Pass
@@ -1063,7 +1063,7 @@ sub-3669543341	PNC	ses-1	-143	1	1				1	Pass
 sub-3670092995	PNC	ses-1	-72		1	1		1	1	Pass
 sub-3670726676	PNC	ses-1	-65	1			1		1	Pass
 sub-3671045126	PNC	ses-1	-133	1	1	1	1	1	1	Pass
-sub-367320913	PNC	ses-1	-265	0.5	0.5				0.5	Borderline
+sub-367320913	PNC	ses-1	-265	0.5	0.5				0.5	Artifact
 sub-3675176980	PNC	ses-1	-151	1	1	1	1	1	1	Pass
 sub-3675945478	PNC	ses-1	-282	1			1		1	Pass
 sub-3678218578	PNC	ses-1	-73	1	1				1	Pass
@@ -1083,11 +1083,11 @@ sub-3711850368	PNC	ses-1	-152	1			1		1	Pass
 sub-3712060241	PNC	ses-1	-136		1	1		1	1	Pass
 sub-3716972371	PNC	ses-1	-83			1	1	1	1	Pass
 sub-3719615756	PNC	ses-1	-45	1	1				1	Pass
-sub-372100986	PNC	ses-1	-111	1	1	1	0.75	1	0.95	Borderline
-sub-3722539437	PNC	ses-1	-135		0.5	1		0.5	0.666666667	Borderline
+sub-372100986	PNC	ses-1	-111	1	1	1	0.75	1	0.95	Artifact
+sub-3722539437	PNC	ses-1	-135		0.5	1		0.5	0.666666667	Artifact
 sub-3724047858	PNC	ses-1	-96	1			1		1	Pass
 sub-3724155829	PNC	ses-1	-72	1			1		1	Pass
-sub-3726299659	PNC	ses-1	-464			0	0.75	0	0.25	Borderline
+sub-3726299659	PNC	ses-1	-464			0	0.75	0	0.25	Artifact
 sub-3726776317	PNC	ses-1	-119		1	1		1	1	Pass
 sub-3730474103	PNC	ses-1	-83	1	1				1	Pass
 sub-3731824395	PNC	ses-1	-153	1			1		1	Pass
@@ -1111,10 +1111,10 @@ sub-3753613715	PNC	ses-1	-93	1	1	1	1	1	1	Pass
 sub-375434957	PNC	ses-1	-195	1			1		1	Pass
 sub-375475352	PNC	ses-1	-144	1			1		1	Pass
 sub-3756388677	PNC	ses-1	-132	1			1		1	Pass
-sub-375686109	PNC	ses-1	-84	1	1	1	0.75	1	0.95	Borderline
+sub-375686109	PNC	ses-1	-84	1	1	1	0.75	1	0.95	Artifact
 sub-3758103185	PNC	ses-1	-145	1	1	1	1	1	1	Pass
 sub-3761349403	PNC	ses-1	-108	1	1	1	1	1	1	Pass
-sub-3762475569	PNC	ses-1	-210			1	1	0.5	0.833333333	Borderline
+sub-3762475569	PNC	ses-1	-210			1	1	0.5	0.833333333	Artifact
 sub-3763213896	PNC	ses-1	-140	1			1		1	Pass
 sub-3769010696	PNC	ses-1	-110			1	1	1	1	Pass
 sub-3770031954	PNC	ses-1	-171			1	1	1	1	Pass
@@ -1125,12 +1125,12 @@ sub-3778541583	PNC	ses-1	-122	1	1				1	Pass
 sub-3782270648	PNC	ses-1	-175		1	1		1	1	Pass
 sub-37835493	PNC	ses-1	-63			1	1	1	1	Pass
 sub-379170502	PNC	ses-1	-96		1	1		1	1	Pass
-sub-3793444603	PNC	ses-1	-191		0.25	0		0.25	0.166666667	Borderline
-sub-3800855923	PNC	ses-1	-162	1	0.25	1	0.75	0.75	0.75	Borderline
+sub-3793444603	PNC	ses-1	-191		0.25	0		0.25	0.166666667	Artifact
+sub-3800855923	PNC	ses-1	-162	1	0.25	1	0.75	0.75	0.75	Artifact
 sub-3806576780	PNC	ses-1	-97			1	1	1	1	Pass
 sub-3807715038	PNC	ses-1	-80		1	1		1	1	Pass
 sub-3807880204	PNC	ses-1	-131	1	1	1	1	1	1	Pass
-sub-3808965674	PNC	ses-1	-106			1	1	0.75	0.916666667	Borderline
+sub-3808965674	PNC	ses-1	-106			1	1	0.75	0.916666667	Artifact
 sub-3809027065	PNC	ses-1	-322			1	1	1	1	Pass
 sub-3809989470	PNC	ses-1	-77			1	1	1	1	Pass
 sub-3810009389	PNC	ses-1	-88	1			1		1	Pass
@@ -1145,26 +1145,26 @@ sub-3827457731	PNC	ses-1	-93	1	1				1	Pass
 sub-3829047511	PNC	ses-1	-96	1			1		1	Pass
 sub-3830031504	PNC	ses-1	-94		1	1		1	1	Pass
 sub-383103459	PNC	ses-1	-101			1	1	1	1	Pass
-sub-3831608525	PNC	ses-1	-287	0.75	0.75	0.5	1	0.25	0.65	Borderline
+sub-3831608525	PNC	ses-1	-287	0.75	0.75	0.5	1	0.25	0.65	Artifact
 sub-3836020010	PNC	ses-1	-128			1	1	1	1	Pass
 sub-3836403514	PNC	ses-1	-88	1	1	1	1	1	1	Pass
 sub-3837482902	PNC	ses-1	-121	1	1				1	Pass
-sub-3840308617	PNC	ses-1	-69	1	0.75				0.875	Borderline
+sub-3840308617	PNC	ses-1	-69	1	0.75				0.875	Artifact
 sub-3840869169	PNC	ses-1	-129			1	1	1	1	Pass
 sub-3846816171	PNC	ses-1	-77	1			1		1	Pass
 sub-3847306693	PNC	ses-1	-160	1	1				1	Pass
 sub-3851803705	PNC	ses-1	-97			1	1	1	1	Pass
-sub-385564988	PNC	ses-1	-289			0.75	0.5	0	0.416666667	Borderline
+sub-385564988	PNC	ses-1	-289			0.75	0.5	0	0.416666667	Artifact
 sub-3856077977	PNC	ses-1	-144		1	1		1	1	Pass
 sub-3859141450	PNC	ses-1	-90	1	1				1	Pass
 sub-3866325191	PNC	ses-1	-111		1	1		1	1	Pass
-sub-3867430894	PNC	ses-1	-220		0.75	1		1	0.916666667	Borderline
+sub-3867430894	PNC	ses-1	-220		0.75	1		1	0.916666667	Artifact
 sub-3867546625	PNC	ses-1	-145	1	1	1	1	1	1	Pass
 sub-3869583798	PNC	ses-1	-108			1	1	1	1	Pass
 sub-3870273492	PNC	ses-1	-67	1	1				1	Pass
 sub-3870295870	PNC	ses-1	-168		1	1		1	1	Pass
 sub-3870702454	PNC	ses-1	-102	1	1	1	1	1	1	Pass
-sub-3874353588	PNC	ses-1	-102	1	0.75				0.875	Borderline
+sub-3874353588	PNC	ses-1	-102	1	0.75				0.875	Artifact
 sub-3876784770	PNC	ses-1	-131	1	1	1	1	1	1	Pass
 sub-3880233477	PNC	ses-1	-190	1			1		1	Pass
 sub-3880738222	PNC	ses-1	-70			1	1	1	1	Pass
@@ -1185,7 +1185,7 @@ sub-3909015218	PNC	ses-1	-121	1	1	1	1	1	1	Pass
 sub-3914722336	PNC	ses-1	-128	1	1	1	1	1	1	Pass
 sub-3915422918	PNC	ses-1	-62	1	1				1	Pass
 sub-3917125611	PNC	ses-1	-117			1	1	1	1	Pass
-sub-3917203499	PNC	ses-1	-469	0.5			0.5		0.5	Borderline
+sub-3917203499	PNC	ses-1	-469	0.5			0.5		0.5	Artifact
 sub-3917353122	PNC	ses-1	-56		1	1		1	1	Pass
 sub-3920704580	PNC	ses-1	-138	1			1		1	Pass
 sub-3921457149	PNC	ses-1	-143	1			1		1	Pass
@@ -1229,14 +1229,14 @@ sub-4039829353	PNC	ses-1	-115	1	1				1	Pass
 sub-4040147816	PNC	ses-1	-120	1	1	1	1	1	1	Pass
 sub-4040716945	PNC	ses-1	-104	1	1	1	1	1	1	Pass
 sub-405373926	PNC	ses-1	-137	1	1	1	1	1	1	Pass
-sub-4060589852	PNC	ses-1	-105		0.75	1		1	0.916666667	Borderline
+sub-4060589852	PNC	ses-1	-105		0.75	1		1	0.916666667	Artifact
 sub-4061437282	PNC	ses-1	-146	1			1		1	Pass
 sub-4063155703	PNC	ses-1	-124	1			1		1	Pass
 sub-4065001465	PNC	ses-1	-88	1	1	1	1	1	1	Pass
 sub-4066124203	PNC	ses-1	-54	1	1	1	1	1	1	Pass
 sub-4067048825	PNC	ses-1	-132	1			1		1	Pass
 sub-4069098061	PNC	ses-1	-119	1			1		1	Pass
-sub-4069824072	PNC	ses-1	-111	0.75	1	1	1	1	0.95	Borderline
+sub-4069824072	PNC	ses-1	-111	0.75	1	1	1	1	0.95	Artifact
 sub-4080403633	PNC	ses-1	-100			1	1	1	1	Pass
 sub-4083266820	PNC	ses-1	-104			1	1	1	1	Pass
 sub-4083814481	PNC	ses-1	-152			1	1	1	1	Pass
@@ -1249,16 +1249,16 @@ sub-4093108110	PNC	ses-1	-84	1			1		1	Pass
 sub-4093356685	PNC	ses-1	-87	1			1		1	Pass
 sub-4095893651	PNC	ses-1	-149	1			1		1	Pass
 sub-4099417558	PNC	ses-1	-78			1	1	1	1	Pass
-sub-4099541746	PNC	ses-1	-65	1	1	1	0.75	1	0.95	Borderline
+sub-4099541746	PNC	ses-1	-65	1	1	1	0.75	1	0.95	Artifact
 sub-4099736023	PNC	ses-1	-113			1	1	1	1	Pass
 sub-4100540491	PNC	ses-1	-143			1	1	1	1	Pass
 sub-4106746357	PNC	ses-1	-124	1			1		1	Pass
 sub-4107507507	PNC	ses-1	-131			1	1	1	1	Pass
 sub-4108002155	PNC	ses-1	-113	1			1		1	Pass
-sub-410808047	PNC	ses-1	-266	0.5	1	0.75	0.5	0	0.55	Borderline
+sub-410808047	PNC	ses-1	-266	0.5	1	0.75	0.5	0	0.55	Artifact
 sub-4113417726	PNC	ses-1	-89			1	1	1	1	Pass
 sub-4117238293	PNC	ses-1	-161		1	1		1	1	Pass
-sub-4118326689	PNC	ses-1	-109			1	1	0.75	0.916666667	Borderline
+sub-4118326689	PNC	ses-1	-109			1	1	0.75	0.916666667	Artifact
 sub-4122649464	PNC	ses-1	-240		1	1		1	1	Pass
 sub-413107749	PNC	ses-1	-123	1	1	1	1	1	1	Pass
 sub-4133213633	PNC	ses-1	-90			1	1	1	1	Pass
@@ -1278,16 +1278,16 @@ sub-4172321775	PNC	ses-1	-152	1			1		1	Pass
 sub-4172833860	PNC	ses-1	-100	1	1	1	1	1	1	Pass
 sub-4174857942	PNC	ses-1	-90	1			1		1	Pass
 sub-4177765106	PNC	ses-1	-59		1	1		1	1	Pass
-sub-4182146714	PNC	ses-1	-116			1	0.75	1	0.916666667	Borderline
+sub-4182146714	PNC	ses-1	-116			1	0.75	1	0.916666667	Artifact
 sub-4187598678	PNC	ses-1	-74	1	1	1	1	1	1	Pass
 sub-4187823334	PNC	ses-1	-115			1	1	1	1	Pass
-sub-4190603704	PNC	ses-1	-159			0.75	1	0.5	0.75	Borderline
+sub-4190603704	PNC	ses-1	-159			0.75	1	0.5	0.75	Artifact
 sub-4190952364	PNC	ses-1	-77	1	1	1	1	1	1	Pass
 sub-4193918219	PNC	ses-1	-148		1	1		1	1	Pass
 sub-419535935	PNC	ses-1	-90	1			1		1	Pass
 sub-4196310650	PNC	ses-1	-185		1	1		1	1	Pass
 sub-4196412787	PNC	ses-1	-154	1	1	1	1	1	1	Pass
-sub-4196502261	PNC	ses-1	-162			1	1	0.75	0.916666667	Borderline
+sub-4196502261	PNC	ses-1	-162			1	1	0.75	0.916666667	Artifact
 sub-4197093898	PNC	ses-1	-42			1	1	1	1	Pass
 sub-4198853043	PNC	ses-1	-117		1	1		1	1	Pass
 sub-4199436321	PNC	ses-1	-99	1	1				1	Pass
@@ -1322,9 +1322,9 @@ sub-429608771	PNC	ses-1	-100			1	1	1	1	Pass
 sub-432187454	PNC	ses-1	-89	1	1	1	1	1	1	Pass
 sub-433029449	PNC	ses-1	-101		1	1		1	1	Pass
 sub-43606631	PNC	ses-1	-50	1	1	1	1	1	1	Pass
-sub-438637277	PNC	ses-1	-156			1	1	0.75	0.916666667	Borderline
+sub-438637277	PNC	ses-1	-156			1	1	0.75	0.916666667	Artifact
 sub-440314957	PNC	ses-1	-103	1	1				1	Pass
-sub-443334800	PNC	ses-1	-358			0.75	1	0.5	0.75	Borderline
+sub-443334800	PNC	ses-1	-358			0.75	1	0.5	0.75	Artifact
 sub-443632695	PNC	ses-1	-108	1			1		1	Pass
 sub-443652258	PNC	ses-1	-148			1	1	1	1	Pass
 sub-443900734	PNC	ses-1	-96		1	1		1	1	Pass
@@ -1334,14 +1334,14 @@ sub-448304956	PNC	ses-1	-111		1	1		1	1	Pass
 sub-451261789	PNC	ses-1	-101	1	1	1	1	1	1	Pass
 sub-458296344	PNC	ses-1	-92		1	1		1	1	Pass
 sub-460925240	PNC	ses-1	-125	1	1				1	Pass
-sub-462702505	PNC	ses-1	-317	1	0.5	1	1	1	0.9	Borderline
+sub-462702505	PNC	ses-1	-317	1	0.5	1	1	1	0.9	Artifact
 sub-465465726	PNC	ses-1	-192	1	1	1	1	1	1	Pass
 sub-467305309	PNC	ses-1	-174			1	1	1	1	Pass
 sub-470135601	PNC	ses-1	-96	1	1				1	Pass
 sub-471230479	PNC	ses-1	-109	1			1		1	Pass
 sub-471903637	PNC	ses-1	-92	1	1				1	Pass
-sub-473767958	PNC	ses-1	-214	1			0.5		0.75	Borderline
-sub-476252579	PNC	ses-1	-113		0.75	1		1	0.916666667	Borderline
+sub-473767958	PNC	ses-1	-214	1			0.5		0.75	Artifact
+sub-476252579	PNC	ses-1	-113		0.75	1		1	0.916666667	Artifact
 sub-481928384	PNC	ses-1	-76	1	1	1	1	1	1	Pass
 sub-482239832	PNC	ses-1	-93		1	1		1	1	Pass
 sub-482294424	PNC	ses-1	-126	1	1	1	1	1	1	Pass
@@ -1357,7 +1357,7 @@ sub-498628252	PNC	ses-1	-168	1			1		1	Pass
 sub-499092343	PNC	ses-1	-144			1	1	1	1	Pass
 sub-500081009	PNC	ses-1	-110	1	1	1	1	1	1	Pass
 sub-500214245	PNC	ses-1	-139	1	1				1	Pass
-sub-507224785	PNC	ses-1	-111	1			0.75		0.875	Borderline
+sub-507224785	PNC	ses-1	-111	1			0.75		0.875	Artifact
 sub-510706202	PNC	ses-1	-101	1	1	1	1	1	1	Pass
 sub-51217255	PNC	ses-1	-46			1	1	1	1	Pass
 sub-517593246	PNC	ses-1	-138			1	1	1	1	Pass
@@ -1377,17 +1377,17 @@ sub-55710183	PNC	ses-1	-109	1			1		1	Pass
 sub-56162563	PNC	ses-1	-77	1			1		1	Pass
 sub-562992781	PNC	ses-1	-144			1	1	1	1	Pass
 sub-566745642	PNC	ses-1	-92	1			1		1	Pass
-sub-568769650	PNC	ses-1	-164		0.75	1		0.75	0.833333333	Borderline
-sub-571955453	PNC	ses-1	-165			1	1	0.75	0.916666667	Borderline
+sub-568769650	PNC	ses-1	-164		0.75	1		0.75	0.833333333	Artifact
+sub-571955453	PNC	ses-1	-165			1	1	0.75	0.916666667	Artifact
 sub-574930953	PNC	ses-1	-102	1	1	1	1	1	1	Pass
-sub-578652819	PNC	ses-1	-336	0.5	0.75	0.75	0.75	0.5	0.65	Borderline
+sub-578652819	PNC	ses-1	-336	0.5	0.75	0.75	0.75	0.5	0.65	Artifact
 sub-579459470	PNC	ses-1	-71		1	1		1	1	Pass
 sub-579934409	PNC	ses-1	-131		1	1		1	1	Pass
 sub-583203611	PNC	ses-1	-94	1	1	1	1	1	1	Pass
 sub-584328521	PNC	ses-1	-74			1	1	1	1	Pass
 sub-585579170	PNC	ses-1	-73	1			1		1	Pass
 sub-594496588	PNC	ses-1	-104			1	1	1	1	Pass
-sub-595113616	PNC	ses-1	-337		0.5	0.75		0	0.416666667	Borderline
+sub-595113616	PNC	ses-1	-337		0.5	0.75		0	0.416666667	Artifact
 sub-597625120	PNC	ses-1	-84	1	1				1	Pass
 sub-60021964	PNC	ses-1	-119		1	1		1	1	Pass
 sub-606185341	PNC	ses-1	-118			1	1	1	1	Pass
@@ -1399,7 +1399,7 @@ sub-619623685	PNC	ses-1	-145	1			1		1	Pass
 sub-619635668	PNC	ses-1	-233	1	1				1	Pass
 sub-620265516	PNC	ses-1	-138		1	1		1	1	Pass
 sub-624076698	PNC	ses-1	-74	1			1		1	Pass
-sub-624155263	PNC	ses-1	-177	1	1	1	1	0.75	0.95	Borderline
+sub-624155263	PNC	ses-1	-177	1	1	1	1	0.75	0.95	Artifact
 sub-624204289	PNC	ses-1	-155			1	1	1	1	Pass
 sub-628144066	PNC	ses-1	-47	1	1	1	1	1	1	Pass
 sub-628391776	PNC	ses-1	-70	1	1	1	1	1	1	Pass
@@ -1421,7 +1421,7 @@ sub-673480448	PNC	ses-1	-94	1	1				1	Pass
 sub-674306142	PNC	ses-1	-126	1	1				1	Pass
 sub-676758900	PNC	ses-1	-145	1	1				1	Pass
 sub-677581716	PNC	ses-1	-155	1			1		1	Pass
-sub-678139191	PNC	ses-1	-305	0.25	0.5				0.375	Borderline
+sub-678139191	PNC	ses-1	-305	0.25	0.5				0.375	Artifact
 sub-680441334	PNC	ses-1	-195	1	1				1	Pass
 sub-681935372	PNC	ses-1	-126		1	1		1	1	Pass
 sub-688334597	PNC	ses-1	-129		1	1		1	1	Pass
@@ -1447,21 +1447,21 @@ sub-736568905	PNC	ses-1	-141		1	1		1	1	Pass
 sub-741738961	PNC	ses-1	-193	1			1		1	Pass
 sub-746172812	PNC	ses-1	-127	1	1				1	Pass
 sub-746461855	PNC	ses-1	-52	1	1				1	Pass
-sub-747098283	PNC	ses-1	-307	0.75	0.5	0.5	0.5	0.5	0.55	Borderline
+sub-747098283	PNC	ses-1	-307	0.75	0.5	0.5	0.5	0.5	0.55	Artifact
 sub-74920331	PNC	ses-1	-88		1	1		1	1	Pass
 sub-749654008	PNC	ses-1	-103			1	1	1	1	Pass
 sub-749926734	PNC	ses-1	-76			1	1	1	1	Pass
 sub-754064811	PNC	ses-1	-102	1	1				1	Pass
 sub-754671892	PNC	ses-1	-80	1			1		1	Pass
 sub-756380264	PNC	ses-1	-124	1	1				1	Pass
-sub-759622826	PNC	ses-1	-193			1	1	0.75	0.916666667	Borderline
+sub-759622826	PNC	ses-1	-193			1	1	0.75	0.916666667	Artifact
 sub-762034957	PNC	ses-1	-134	1	1	1	1	1	1	Pass
 sub-764315034	PNC	ses-1	-173		1	1		1	1	Pass
 sub-765502775	PNC	ses-1	-128	1			1		1	Pass
 sub-765941980	PNC	ses-1	-112			1	1	1	1	Pass
 sub-766617571	PNC	ses-1	-136	1			1		1	Pass
 sub-768254884	PNC	ses-1	-123	1	1				1	Pass
-sub-771616981	PNC	ses-1	-428	1			0.75		0.875	Borderline
+sub-771616981	PNC	ses-1	-428	1			0.75		0.875	Artifact
 sub-77390767	PNC	ses-1	-105	1	1				1	Pass
 sub-779151395	PNC	ses-1	-93	1	1				1	Pass
 sub-782547571	PNC	ses-1	-76		1	1		1	1	Pass
@@ -1471,8 +1471,8 @@ sub-78982423	PNC	ses-1	-72		1	1		1	1	Pass
 sub-793702653	PNC	ses-1	-95	1	1				1	Pass
 sub-794058926	PNC	ses-1	-88	1	1				1	Pass
 sub-802748205	PNC	ses-1	-121	1	1				1	Pass
-sub-803514179	PNC	ses-1	-137	1	0.75				0.875	Borderline
-sub-808262395	PNC	ses-1	-200		1	0.75		0.5	0.75	Borderline
+sub-803514179	PNC	ses-1	-137	1	0.75				0.875	Artifact
+sub-808262395	PNC	ses-1	-200		1	0.75		0.5	0.75	Artifact
 sub-808687263	PNC	ses-1	-113		1	1		1	1	Pass
 sub-809074299	PNC	ses-1	-85	1	1				1	Pass
 sub-80982198	PNC	ses-1	-151	1			1		1	Pass
