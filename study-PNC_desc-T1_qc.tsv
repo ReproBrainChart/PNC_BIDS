@@ -1,4 +1,4 @@
-participant_ID	study	ses-id	euler	avg_rater1	avg_rater3	avg_rater4	avg_rater5	avg_rater6	across_rater_average	qc_determination
+participant_id	study	ses_id	euler	rater_1	rater_3	rater_4	rater_5	rater_6	across_rater_average	qc_determination
 sub-1000393599	PNC	ses-1	-172			1	1	1	1	Pass
 sub-1000881804	PNC	ses-1	-123	1	1	1	1	1	1	Pass
 sub-1001970838	PNC	ses-1	-63		1	1		1	1	Pass
