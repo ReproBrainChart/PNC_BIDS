@@ -6,37 +6,28 @@
         "LongName": "Study identifier",
         "Description": "The study in which this participant participated.",
         "Levels": {
-            "NKI": "Nathan Kline Institute - Rockland Sample"
+            "PNC": "Philadelphia Neurodevelopmental Cohort"
         }
     },
     "study_site": {
         "LongName": "Study site",
         "Description": "Participant's study recruitment site.",
         "Levels": {
-            "NKI": "Site 1 from NKI study."
+            "PNC-1": "Site 1 from PNC study."
         }
     },
     "session": {
         "LongName": "Session",
         "Description": "Participant's imaging session.",
         "Levels": {
-            "BAS1": "Baseline 1 session from study NKI.",
-            "BAS2": "Baseline 2 session from study NKI.",
-            "BAS3": "Baseline 3 session from study NKI.",
-            "FLU1": "Followup 1 session from study NKI.",
-            "FLU2": "Followup 2 session from study NKI.",
-            "TRT": "Test-retest session from study NKI.",
+            "PNC-1": "Session 1 from PNC study."
         }
     },
     "wave": {
         "LongName": "Recruitment wave",
         "Description": "Participant's recruitment wave within the study.",
         "Levels": {
-            "BAS1": "Baseline 1 session from study NKI.",
-            "BAS2": "Baseline 2 session from study NKI.",
-            "BAS3": "Baseline 3 session from study NKI.",
-            "FLU1": "Followup 1 session from study NKI.",
-            "FLU2": "Followup 2 session from study NKI.",
+            "1": "Wave 1 from PNC study."
         }
     },
     "age": {
