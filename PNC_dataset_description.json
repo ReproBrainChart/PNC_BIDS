@@ -1,0 +1,53 @@
+{
+    "Acknowledgements": "Many thanks to the acquisition team, including Jeff Valdez, Raphael Gerraty, Nicholas DeLeo, and Elliot Yodh. Thanks to Rosetta Chiavacci for study coordination, and to Larry Macy for systems support. Thanks to James Dickson for XNAT development.",
+    "Authors": [
+        "Theodore D. Satterthwaite",
+        "John J. Connolly",
+        "Kosha Ruparel",
+        "James Loughead",
+        "Monica E. Calkins",
+        "Chad Jackson",
+        "Jack Keefe",
+        "Marisa Riley",
+        "Ragini Verma",
+        "Christos Davatzikos",
+        "Mark A. Elliott",
+        "David R. Roalf",
+        "Ryan Hopson",
+        "Karthik Prabhakaran",
+        "Meckenzie Behr",
+        "Haijun Qiu",
+        "Frank D. Mentch",
+        "Rosetta Chiavacci",
+        "Patrick M.A. Sleiman",
+        "Ruben C. Gur",
+        "Hakon Hakonarson",
+        "Raquel E. Gur"
+    ],
+    "BIDSVersion": "1.0.2",
+    "DatasetDOI": [
+        "https://doi.org/10.1016/j.neuroimage.2013.07.06",
+        "https://doi.org/10.1016/j.neuroimage.2015.03.056",
+        "10.17605/OSF.IO/ER248"
+    ],
+    "Funding": [
+        "MH089983",
+        "MH089924",
+        "MH019112",
+        "U01HG006830",
+        "K23MH098130",
+        "K01MH102609",
+        "K08MH79364",
+        "Marc Rapport Family Investigator grant - Brain & Behavior Research Foundation",
+        "Institutional Development Award to the Center for Applied Genomics - Children's Hospital of Philadelphia",
+        "Adele Kubert",
+        "Daniel Kubert"
+    ],
+    "HowToAcknowledge": "If you reference this dataset in your publications, please cite the DOIs listed above.",
+    "License": "CC BY-NC-SA",
+    "Name": "PNC",
+    "ReferencesAndLinks": [
+        "Satterthwaite, T. D., Elliott, M. A., Ruparel, K., Loughead, J., Prabhakaran, K., Calkins, M. E., Hopson, R., Jackson, C., Keefe, J., Riley, M., Mensh, F. D., Sleiman, P., Verma, R., Davatzikos, C., Hakonarson, H., Gur, R. C., & Gur, R. E. (2014). Neuroimaging of the Philadelphia Neurodevelopmental Cohort. NeuroImage, 86, 544.",
+        "Satterthwaite T.D., Connolly J.J., Ruparel K., Calkins M.E., Jackson C., Elliott Ma, Roalf D.R., Hopson R., Prabhakaran K., Behr M., Qiu H., Mentch F.D., Chiavacci R., Sleiman P.M.A., Gur R.C., Hakonarson H., & Gur R.E. (2016). The Philadelphia Neurodevelopmental Cohort: A publicly available resource for the study of normal and abnormal brain development in youth. NeuroImage, 124(Pt B)"
+    ]
+}
