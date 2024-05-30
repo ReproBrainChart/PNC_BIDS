@@ -16,7 +16,7 @@
             "PNC-1": "Site 1 from PNC study."
         }
     },
-    "session": {
+    "session_id": {
         "LongName": "Session",
         "Description": "Participant's imaging session.",
         "Levels": {
