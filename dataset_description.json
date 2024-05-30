@@ -31,17 +31,8 @@
         "10.17605/OSF.IO/ER248"
     ],
     "Funding": [
-        "MH089983",
-        "MH089924",
-        "MH019112",
-        "U01HG006830",
-        "K23MH098130",
-        "K01MH102609",
-        "K08MH79364",
-        "Marc Rapport Family Investigator grant - Brain & Behavior Research Foundation",
-        "Institutional Development Award to the Center for Applied Genomics - Children's Hospital of Philadelphia",
-        "Adele Kubert",
-        "Daniel Kubert"
+        "RC2MH089983", 
+        "RC2MH089924"
     ],
     "HowToAcknowledge": "If you reference this dataset in your publications, please cite the DOIs listed above.",
     "License": "CC BY-NC-SA",
